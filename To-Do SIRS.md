@@ -1,0 +1,11 @@
+- [x] TLS Note
+- [ ] Rest of IDS Note
+- [ ] Public Keys Management Note
+- [ ] Secret Keys Management Note
+- [ ] Authentication Note
+- [ ] Authorization Note
+- [ ] Secure Communication Overview Note
+- [ ] Wi-Fi Security Note
+- [ ] IPSec and VPNs Note
+- [ ] Network Vulnerabilities Note
+- [ ] Symmetric and Asymmetric Cryptography Review
