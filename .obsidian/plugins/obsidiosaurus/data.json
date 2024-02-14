@@ -1,0 +1,11 @@
+{
+  "obsidianVaultDirectory": "./vault",
+  "docusaurusWebsiteDirectory": "./website",
+  "obsidianAssetSubfolderName": "assets",
+  "docusaurusAssetSubfolderName": "assets",
+  "mainLanguage": "en",
+  "convertedImageType": "webp",
+  "convertedImageMaxWidth": "2500",
+  "debug": false,
+  "developer": false
+}

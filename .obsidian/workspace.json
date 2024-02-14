@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "9b48eea2793c7ba1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f40c803b7fd60c18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86f5d2d7dd39122d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networks/Cybersecurity/Security Systems/Introduction to Cybersecurity in Networks and Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0787c1adda1c778c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networks/Cybersecurity/Security Systems/Wi-Fi Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcf4779fe1827255",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networks/Cybersecurity/Security Systems/Cryptographic Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b68998e846bfea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networks/Cybersecurity/Security Systems/IPSec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "175e6f6fc3a87288",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9abb463111b5ed3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02272b9cebf3c2af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "353893c10936c321",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9727fff0e1d6c521",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b77b64fbc0a83eea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9e4cab252c80957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81bb11ec46922e7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Networks/Cybersecurity/Security Systems/Cryptographic Services.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0706ed1aca1aa75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Networks/Cybersecurity/Security Systems/Cryptographic Services.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c98f0aa4048a597",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "01831c09068d1120",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Networks/Cybersecurity/Security Systems/Cryptographic Services.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidiosaurus:Obsidiosaurus": false
+    }
+  },
+  "active": "fcf4779fe1827255",
+  "lastOpenFiles": [
+    "website/package-lock.json",
+    "website/node_modules/core-js/README.md",
+    "website/node_modules/core-js/package.json",
+    "website/node_modules/core-js-pure/stage/README.md",
+    "website/node_modules/core-js-pure/README.md",
+    "website/node_modules/core-js-pure/package.json",
+    "website/node_modules/core-js/postinstall.js",
+    "website/node_modules/core-js-pure/stage/pre.js",
+    "website/node_modules/core-js-pure/postinstall.js",
+    "website/node_modules/typescript/ThirdPartyNoticeText.txt",
+    "website/node_modules/typescript/LICENSE.txt",
+    "website/node_modules/core-js-pure/stage/index.js",
+    "website/node_modules/core-js/index.js",
+    "website/node_modules/core-js-pure/index.js",
+    "website/node_modules/typescript/SECURITY.md",
+    "website/node_modules/typescript/README.md",
+    "website/node_modules/lodash/release.md",
+    "website/node_modules/lodash/README.md",
+    "website/node_modules/webpack/SECURITY.md",
+    "website/node_modules/webpack/README.md",
+    "website/node_modules/caniuse-lite/README.md",
+    "website/node_modules/@docusaurus/theme-classic/README.md",
+    "website/node_modules/prismjs/README.md",
+    "website/node_modules/prismjs/CHANGELOG.md",
+    "website/node_modules/core-js/modules/README.md",
+    "website/node_modules/core-js-pure/modules/README.md",
+    "website/node_modules/core-js/web/README.md",
+    "website/node_modules/core-js-pure/web/README.md",
+    "website/node_modules/regenerate-unicode-properties/README.md",
+    "website/node_modules/ajv/README.md",
+    "website/node_modules/react-dom/README.md",
+    "website/node_modules/html-minifier-terser/README.md",
+    "website/node_modules/@docusaurus/theme-translations/README.md",
+    "website/node_modules/@docusaurus/theme-common/README.md",
+    "website/node_modules/css-tree/README.md",
+    "website/node_modules/css-tree/CHANGELOG.md",
+    "website/node_modules/renderkid/docs/images/usage.png",
+    "website/node_modules/renderkid/docs/images/bullets-1.png",
+    "website/node_modules/renderkid/docs/images/display.png",
+    "website/node_modules/@docusaurus/logger/demo.png",
+    "website/node_modules/detect-port-alt/logo.png",
+    "website/node_modules/serve-index/public/icons/page_world.png",
+    "website/node_modules/serve-index/public/icons/page_word.png",
+    "website/node_modules/serve-index/public/icons/page_white_zip.png",
+    "website/node_modules/serve-index/public/icons/page_white_wrench.png",
+    "website/node_modules/serve-index/public/icons/page_white_world.png",
+    "Untitled.canvas"
+  ]
+}
